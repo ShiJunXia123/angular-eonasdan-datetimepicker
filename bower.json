@@ -1,5 +1,5 @@
 {
-  "name": "angular-eonasdan-datetimepicker",
+  "name": "angular-eonasdan-datetimepicker-shijunxia",
   "version": "1.3.9",
   "authors": [
     "Atais <atais.jr@gmail.com>"
@@ -15,10 +15,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/atais/angular-eonasdan-datetimepicker.git"
+    "url": "git://github.com/ShiJunXia123/angular-eonasdan-datetimepicker.git"
   },
   "license": "MIT",
-  "homepage": "https://github.com/atais/angular-eonasdan-datetimepicker",
+  "homepage": "https://github.com/ShiJunXia123/angular-eonasdan-datetimepicker",
   "ignore": [
     "**/.*",
     "node_modules",
